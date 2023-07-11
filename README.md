@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Rishabh Kumar Pandey</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" height="150" src="https://media.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif"  />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabhpandey___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-kumar-pandey-954b1a201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/18Rishabh) 
